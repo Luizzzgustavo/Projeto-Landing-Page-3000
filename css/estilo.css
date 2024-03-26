@@ -1,0 +1,41 @@
+body{
+    width: 90%;
+    margin: 0 auto;
+   background: #070F2B;
+}
+.titulo__princiapal{
+    color: #FFF;
+    padding-top: 60px;
+    text-align: center;
+}
+.sub__titulo{
+    color: #FFF;
+    text-align: center;
+    padding-top:20px;
+}
+.imagem__principal{
+    text-align: center;
+}
+.container__conteudo{
+    width: 80%;
+    margin: 0px auto;
+}
+.descrição__produto{
+    color: #FFF;
+}
+@media only screen and (max-width: 480px) {
+    img {
+    width: 100%;
+    }
+}
+.conteiner__compra{
+    width: 80%;
+    margin: 0px auto;
+}
+.conteudo__compra{
+    color: #FFF;
+}
+.botão__compra{
+    color: #FFF;
+    background-color: green;
+}
